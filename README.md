@@ -8,9 +8,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joãotokusumivieira/)](https://www.linkedin.com/in/joãotokusumivieira/)
 ### Languages and Tools
 <div>
-<img height="180" src"https://github-readme-stats.vercel.app/api?username=iPvieira&theme=tokyonight)](https://github.com/iPvieira/github-readme-stats"/>
-  <img height="180" src"https://github-readme-stats.vercel.app/api/top-langs?username=iPvieira&theme=tokyonight&layout=compact)](https://github.com/iPvieira/github-readme-stats"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iPvieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPvieira&layout=compact&langs_count=7&theme=tokyonight"/>
  <div/>
 
 <code><img height= "20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
