@@ -3,7 +3,6 @@
 - 💻 Diretor de Projetos da Consultoria Junior Unidev
 - 🌱 Estudando programação web - JS, Node.js e React
 - 🤝 Open to work
-- 
 ##
 
 <div align="center">
