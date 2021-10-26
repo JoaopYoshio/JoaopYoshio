@@ -1,15 +1,17 @@
-### Hello World, I'm João Pedro!!! 🌎
+## Hello World, I'm João Pedro!!! 🌎
 - 📚 Futuro engenheiro de Software
 - 💻 Diretor de Projetos da Consultoria Junior Unidev
 - 🌱 Estudando programação web - JS, Node.js e React
 - 🤝 Open to work
-### About Me
+## About Me
+
 <div>
   <a href="https://instagram.com/jaopvieira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-joãotokusumivieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a> 
   <a href = "mailto: joaopedro12v@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-### Languages and Tools
+  
+## Languages and Tools
   
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iPvieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
