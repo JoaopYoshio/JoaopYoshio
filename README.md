@@ -7,8 +7,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iPvieira)](https://github.com/iPvieira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joãotokusumivieira/)](https://www.linkedin.com/in/joãotokusumivieira/)
 ### Languages and Tools
-[![iPvieira GitHub stats](https://github-readme-stats.vercel.app/api?username=iPvieira&theme=tokyonight)](https://github.com/iPvieira/github-readme-stats)
-[![Top Langes](https://github-readme-stats.vercel.app/api/top-langs?username=iPvieira&theme=tokyonight&layout=compact)](https://github.com/iPvieira/github-readme-stats)
+<div>
+<img height="180" src"[![iPvieira GitHub stats](https://github-readme-stats.vercel.app/api?username=iPvieira&theme=tokyonight)](https://github.com/iPvieira/github-readme-stats)"/>
+  <img height="180" src"[![Top Langes](https://github-readme-stats.vercel.app/api/top-langs?username=iPvieira&theme=tokyonight&layout=compact)](https://github.com/iPvieira/github-readme-stats)"/>
+
+ <div/>
 
 <code><img height= "20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height= "20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
