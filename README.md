@@ -1,6 +1,6 @@
 ## Hello World, I'm João Pedro!!! 🌎
 - 📚 Futuro engenheiro de Software
-- 💻 Diretor de Projetos da Consultoria Junior Unidev
+- 💻 Vice-Presidente da Consultoria Junior Unidev
 - 🌱 Estudando programação web - JS, Node.js e React
 - 🤝 Open to work
 ##
