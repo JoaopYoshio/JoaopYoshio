@@ -2,7 +2,7 @@
 - 📚 Futuro engenheiro de Software
 - 💻 Vice-Presidente da Consultoria Junior Unidev
 - 🌱 Estudando programação web - JS, Node.js e React
-- 🤝 Open to work
+- 🤝 CT Tecnospeed.
 ##
 
 <div>
