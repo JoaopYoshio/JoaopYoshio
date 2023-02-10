@@ -1,8 +1,7 @@
-## Hello World, I'm João Pedro!!! 🌎
+##  João Yoshio!!! 🌎
 - 📚 Futuro engenheiro de Software
-- 💻 Vice-Presidente da Consultoria Junior Unidev
-- 🌱 Estudando programação web - JS, Node.js e React
-- 🤝 CT Tecnospeed.
+- 🌱 Presidente da Consultoria Junior Unidev
+- 💻 CT Tecnospeed.
 ##
 
 <div>
