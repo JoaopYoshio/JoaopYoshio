@@ -26,5 +26,7 @@
   <a href = "mailto: joaopedrovtokusumi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
+##
+[![An image of @joaopyoshio's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joaopyoshio)](https://holopin.io/@joaopyoshio)
 
 
