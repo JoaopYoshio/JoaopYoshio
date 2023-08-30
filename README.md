@@ -12,9 +12,8 @@
 
 <div>
   <a href="https://github.com/JoaopYoshio">
-  <img height="160" src="https://github-readme-stats.zohan.tech/api?username=JoaopYoshio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=JoaopYoshio&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaopYoshio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaopYoshio&layout=compact&langs_count=7&theme=dracula"/>
 <div/>
     
  <div style="display: inline_block"><br>
