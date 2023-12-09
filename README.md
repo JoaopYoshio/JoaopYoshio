@@ -1,6 +1,5 @@
 ##  João Yoshio 🌎
 - 📚 Futuro engenheiro de Software
-- 🌱 Presidente da Consultoria Junior Unidev
 - 💻 CT Tecnospeed.
 
 ##
