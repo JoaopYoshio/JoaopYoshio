@@ -1,6 +1,6 @@
 ##  João Yoshio 🌎
 - 📚 Futuro engenheiro de Software
-- 💻 CT Tecnospeed.
+- 💻 Desenvolvedor de Software Tecnospeed.
 
 ##
 
