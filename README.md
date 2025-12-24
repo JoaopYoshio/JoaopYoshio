@@ -1,5 +1,5 @@
 ##  João Yoshio 🌎
-- 📚 Futuro Engenheiro de Software
+- 📚 Engenheiro de Software
 - 💻 Desenvolvedor de Software Tecnospeed.
 
 ##
